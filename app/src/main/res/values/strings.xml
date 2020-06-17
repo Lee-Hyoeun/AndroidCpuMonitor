@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleSystemMonitoring</string>
+    <string name="app_main_title">MonitoringApp</string>
+    <string name="app_main_btn_sys_txt">system</string>
+    <string name="app_main_btn_cpu_txt">cpu</string>
+    <string name="app_main_btn_mem_txt">mem</string>
+    <string name="app_layout_sys_title">Your system Information</string>
+    <string name="app_layout_sys_home">Home</string>
+    <string name="title_activity_sys_monitor">SysMonitorActivity</string>
+    <string name="cpu_usage">CPU Usage : </string>
+    <string name="cpu_tmp">CPU Temperature : </string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidCpuMonitor.iml" filepath="$PROJECT_DIR$/AndroidCpuMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidCpuMonitor-app.iml" filepath="$PROJECT_DIR$/app/AndroidCpuMonitor-app.iml" group="AndroidCpuMonitor/app" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidCpuMonitor-master-AndroidCpuMonitor.iml" filepath="$PROJECT_DIR$/AndroidCpuMonitor-master-AndroidCpuMonitor.iml" group="AndroidCpuMonitor" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
