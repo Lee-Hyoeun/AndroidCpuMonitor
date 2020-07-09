@@ -2,3 +2,5 @@
 Simple System Monitor App
 
 Excercise with Albert
+
+Upgrade
